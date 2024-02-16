@@ -14,3 +14,6 @@ my_first_element = my_list[0]
 #Exercise 4:
 my_new_number_ten = 10
 my_number = my_number + my_new_number_ten
+
+#Exercise 5:
+my_last_element = my_list[-1]
