@@ -30,3 +30,6 @@ my_new_string = my_first_word_uppercase + my_string[4:]
 #Exercise 8:
 my_sentence = f'I wish I was {my_number} years old.'
 print(my_sentence)
+
+#Exercise 9:
+print('hello world')
