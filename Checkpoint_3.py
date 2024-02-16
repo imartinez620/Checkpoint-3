@@ -22,3 +22,7 @@ my_last_element = my_list[-1]
 names = 'harry,alex,susie,jared,gail,conner'
 list_names = names.split(',')
 
+#Exercise 7:
+my_first_word = my_string[0:4]
+my_first_word_uppercase = my_first_word.upper()
+my_new_string = my_first_word_uppercase + my_string[4:]
