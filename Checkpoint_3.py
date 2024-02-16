@@ -17,3 +17,8 @@ my_number = my_number + my_new_number_ten
 
 #Exercise 5:
 my_last_element = my_list[-1]
+
+#Exercise 6:
+names = 'harry,alex,susie,jared,gail,conner'
+list_names = names.split(',')
+
