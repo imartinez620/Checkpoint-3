@@ -11,3 +11,6 @@ my_sub_string = my_string[0:3]
 #Exercise 3:
 my_first_element = my_list[0]
 
+#Exercise 4:
+my_new_number_ten = 10
+my_number = my_number + my_new_number_ten
