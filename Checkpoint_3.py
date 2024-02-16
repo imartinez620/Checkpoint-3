@@ -26,3 +26,7 @@ list_names = names.split(',')
 my_first_word = my_string[0:4]
 my_first_word_uppercase = my_first_word.upper()
 my_new_string = my_first_word_uppercase + my_string[4:]
+
+#Exercise 8:
+my_sentence = f'I wish I was {my_number} years old.'
+print(my_sentence)
