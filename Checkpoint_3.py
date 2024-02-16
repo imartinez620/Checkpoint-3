@@ -7,5 +7,7 @@ my_boolean = True
 
 #Exercise 2:
 my_sub_string = my_string[0:3]
-print(my_sub_string)
+
+#Exercise 3:
+my_first_element = my_list[0]
 
